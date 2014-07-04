@@ -14,6 +14,8 @@ namespace ConsoleApplication1
             Console.ReadKey();
             Console.WriteLine("This is a Branch Test!!!");
             Console.ReadKey();
+            Console.WriteLine("This is Branch2 Test!!!");
+            Console.ReadKey();
         }
     }
 }
