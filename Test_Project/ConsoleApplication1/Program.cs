@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("This is a test for GIT!!!");
             Console.ReadKey();
+            Console.WriteLine("This is a Branch Test!!!");
+            Console.ReadKey();
         }
     }
 }
